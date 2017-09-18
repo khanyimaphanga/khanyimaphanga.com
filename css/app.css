@@ -326,7 +326,7 @@ color: #fff;
 }
 .portfolio .content h1 {
   color: #3c3c3c;
-  font-size: 2em;
+  font-size: 3em;
   margin-bottom: 50px;
    font-family: 'Amatic SC', cursive;
 }
@@ -572,4 +572,17 @@ color: #fff;
     padding: 25px 10px;
     text-align: left;
   }
+    .portfolio .content .projects .project .project-description h2 {
+      font-size: 2em;
+   
+    display: table-cell;
+    vertical-align: middle;
+     font-family: 'Amatic SC', cursive;
+    }
+
 }
+
+
+
+/*TAGS*/
+
